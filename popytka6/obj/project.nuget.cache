@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Kvci9xm05bCxGfnPW4ZltC+rHtWw9rhvCUrh0liRdfkL6Kmf7JPYEHWgJ7E8vnMTYRtvF7RtNz75p/luVvwGA==",
+  "success": true,
+  "projectFilePath": "D:\\popytka6\\popytka6\\popytka6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Анастасия\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Анастасия\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
